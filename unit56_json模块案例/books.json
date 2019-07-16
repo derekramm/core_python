@@ -1,0 +1,23 @@
+[
+  {
+    "isbn": "tedu-0001",
+    "title": "python",
+    "author": "gudio",
+    "price": 10.99,
+    "pubdate": "2019-01-01"
+  },
+  {
+    "isbn": "tedu-0002",
+    "title": "java",
+    "author": "james",
+    "price": 20.99,
+    "pubdate": "2019-02-01"
+  },
+  {
+    "isbn": "tedu-0003",
+    "title": "web",
+    "author": "w3c",
+    "price": 30.99,
+    "pubdate": "2019-03-01"
+  }
+]
